@@ -36,7 +36,7 @@ placement-predictor-app/
 ├── requirements.txt       # Dependencies
 └── README.md              # Documentation
 
-**Screenshots**
+**Screenshot**
 <img width="2166" height="1568" alt="image" src="https://github.com/user-attachments/assets/aef5725a-7a86-4b20-aa02-b3817f5702a3" />
 
 **👩🏻‍💻Developer**
