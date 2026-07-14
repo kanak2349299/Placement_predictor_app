@@ -43,7 +43,8 @@ placement-predictor-app/
 **📝Note**
 This project is for educational purposes only.
 
-Live App:
+Live App
+https://kanak2349299-placement-predictor-app-app-beje2f.streamlit.app/
 
 ## 🚀 How to Run Locally
 1. **Clone the repository**
