@@ -36,6 +36,10 @@ placement-predictor-app/
 ├── requirements.txt       # Dependencies
 └── README.md              # Documentation
 
+
+Live App
+https://kanak2349299-placement-predictor-app-app-beje2f.streamlit.app/
+
 **Screenshot**
 <img width="2166" height="1568" alt="image" src="https://github.com/user-attachments/assets/aef5725a-7a86-4b20-aa02-b3817f5702a3" />
 
@@ -43,11 +47,9 @@ placement-predictor-app/
 **Himangi Gupta**
 🔗https://github.com/kanak2349299/Placement_predictor_app
 
+
 **📝Note**
 This project is for educational purposes only.
-
-Live App
-https://kanak2349299-placement-predictor-app-app-beje2f.streamlit.app/
 
 ## 🚀 How to Run Locally
 1. **Clone the repository**
