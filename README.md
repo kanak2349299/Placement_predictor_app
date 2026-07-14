@@ -25,11 +25,6 @@ An AI-powered web application that predicts whether a student is likely to be pl
 | **Features** | Hours Studied, Academic Score |
 | **Scaler** | StandardScaler for feature normalization |
 
-## 🚀 How to Run Locally
-1. **Clone the repository**
-```bash
-git clone https://github.com/kanak2349299/placement-predictor-app.git
-cd placement-predictor-app
 
 **Project Structure**
 
@@ -47,4 +42,14 @@ placement-predictor-app/
 
 **📝Note**
 This project is for educational purposes only.
+
+Live App:
+
+## 🚀 How to Run Locally
+1. **Clone the repository**
+```bash
+git clone https://github.com/kanak2349299/placement-predictor-app.git
+cd placement-predictor-app
+
+
 
