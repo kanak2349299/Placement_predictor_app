@@ -2,8 +2,6 @@
 
 An AI-powered web application that predicts whether a student is likely to be placed based on their study hours and academic score. 
 
-**Built for AI Fluency Internship Capstone Project**
-
 ## ✨ Features
 - **ML Powered**: Uses Logistic Regression to predict placement outcomes
 - **Beautiful UI**: Glassmorphism + Neon theme with dark background
